@@ -55,4 +55,4 @@ The project demonstrates practical use of geospatial data handling, spatial oper
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Satellite_Coverage_Analysis_Using_GeoPandas.git
+   git clone https://github.com/Saransh45/Satellite_Coverage_Analysis_Using_GeoPandas.git
